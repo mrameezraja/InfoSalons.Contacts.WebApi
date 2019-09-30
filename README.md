@@ -9,4 +9,5 @@
 7. Open `Package Manager Console` and select `InfoSalons.Contacts.EntityFrameworkCore` project in dropdown
 8. Run `update-database` command, this will create tables neccessary for application to run
 9. Start the application from visual studio
-10. After running web api head towards [angular app](https://github.com/mrameezraja/InfoSalons.Contacts.Angular)
+10. This will display a Swagger UI, this means api is launched successfully.
+11. Now head towards [angular app](https://github.com/mrameezraja/InfoSalons.Contacts.Angular)
